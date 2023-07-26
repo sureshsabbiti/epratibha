@@ -1,0 +1,25 @@
+.container{
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+    /* background-color: blue; */
+    /* width: 300px */
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    padding: 25px;
+    outline-style: outset;
+    border-radius: 5%;
+    background-color: rgba(201, 193, 193, 0.995);
+}
+
+h1{
+    margin:0px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+input{
+    padding: 6px;
+}
